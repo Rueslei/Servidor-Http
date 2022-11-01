@@ -1,0 +1,5 @@
+C:\Users\rcsantos1\Documents\ServidorHttpSimples\obj\Debug\net5.0\ServidorHttpSimples.csproj.AssemblyReference.cache
+C:\Users\rcsantos1\Documents\ServidorHttpSimples\obj\Debug\net5.0\ServidorHttpSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcsantos1\Documents\ServidorHttpSimples\obj\Debug\net5.0\ServidorHttpSimples.AssemblyInfoInputs.cache
+C:\Users\rcsantos1\Documents\ServidorHttpSimples\obj\Debug\net5.0\ServidorHttpSimples.AssemblyInfo.cs
+C:\Users\rcsantos1\Documents\ServidorHttpSimples\obj\Debug\net5.0\ServidorHttpSimples.csproj.CoreCompileInputs.cache
