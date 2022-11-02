@@ -20,7 +20,7 @@ class ServidorHttp
             this.Controlador = new TcpListener(IPAddress.Parse("127.0.0.1"), this.Porta);
             this.Controlador.Start();
             System.Console.WriteLine($"O servidor HTTP está rodando na porta {this.Porta}");
-            System.Console.WriteLine($"Para acessar, basta colar o link no seu navegador http://localhost/{this.Porta}.");
+            System.Console.WriteLine($"Para acessar, basta colar o link no seu navegador http://localhost:{this.Porta}.");
             Task servidorHttpTask = Task.Run(() => AguardarRequests());
             servidorHttpTask.GetAwaiter().GetResult();
         }

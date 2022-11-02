@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rcsantos1\\Documents\\ServidorHttpSimples\\ServidorHttpSimples.csproj": {}
+    "C:\\Users\\Rueslei\\Documents\\estudoC#.NET\\repositories\\Servidor-Http\\ServidorHttpSimples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rcsantos1\\Documents\\ServidorHttpSimples\\ServidorHttpSimples.csproj": {
+    "C:\\Users\\Rueslei\\Documents\\estudoC#.NET\\repositories\\Servidor-Http\\ServidorHttpSimples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rcsantos1\\Documents\\ServidorHttpSimples\\ServidorHttpSimples.csproj",
+        "projectUniqueName": "C:\\Users\\Rueslei\\Documents\\estudoC#.NET\\repositories\\Servidor-Http\\ServidorHttpSimples.csproj",
         "projectName": "ServidorHttpSimples",
-        "projectPath": "C:\\Users\\rcsantos1\\Documents\\ServidorHttpSimples\\ServidorHttpSimples.csproj",
-        "packagesPath": "C:\\Users\\rcsantos1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rcsantos1\\Documents\\ServidorHttpSimples\\obj\\",
+        "projectPath": "C:\\Users\\Rueslei\\Documents\\estudoC#.NET\\repositories\\Servidor-Http\\ServidorHttpSimples.csproj",
+        "packagesPath": "C:\\Users\\Rueslei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rueslei\\Documents\\estudoC#.NET\\repositories\\Servidor-Http\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rcsantos1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rueslei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
